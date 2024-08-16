@@ -1,6 +1,6 @@
 class Solution:
     """
-    Time Complexity: The time complexity can be considered O(1), or constant time, because the number
+    Time Complexity: The time complexity can be considered O(1), or constant time, as the number
     of operations does not grow with the size of the input. 
     Space Complexity: O(1)
     """
